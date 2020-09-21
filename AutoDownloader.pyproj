@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9d6470cd-cc84-4fdc-8c15-729aa3177610</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>AutoDownloader.py</StartupFile>
+    <StartupFile>UserInterface.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="AutoDownloader.py" />
-    <Compile Include="module1.py">
+    <Compile Include="UserInterface.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
